@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 228" fill="none">
+  <!-- D3V periodic table element cell — light mode, no background fill -->
+  <rect x="2" y="2" width="196" height="224" rx="7" ry="7" fill="none" stroke="#4A5A56" stroke-width="2"/>
+
+  <!-- Element number (top left) -->
+  <text x="14" y="28" font-family="Outfit, Helvetica, sans-serif" font-size="18" font-weight="300" fill="#8FA8A0">∞</text>
+
+  <!-- Symbol -->
+  <text x="100" y="120" font-family="Outfit, Helvetica, sans-serif" font-size="72" font-weight="600" fill="#4A5A56" text-anchor="middle" dominant-baseline="central">Ai</text>
+
+  <!-- Element name (bottom) -->
+  <text x="100" y="185" font-family="Outfit, Helvetica, sans-serif" font-size="9" font-weight="500" letter-spacing="1.5" fill="#8FA8A0" text-anchor="middle">AIDIS</text>
+</svg>
